@@ -1,4 +1,4 @@
-# Overdox's pf1e revised content 
+# Overdox's revised pf1e content 
 
 Converted/imported content for Foundry VTT PF1e
 
@@ -60,4 +60,5 @@ Websterguy, Noon, apetina, david (aka claudekennilol), moorepants, ACorania, Chr
 ## Legal
 
 "This system uses trademarks and/or copyrights owned by Paizo Inc., which are used under Paizo's Community Use Policy. We are expressly prohibited from charging you to use or access this content. This [website, character sheet, or whatever it is] is not published, endorsed, or specifically approved by Paizo Inc. For more information about Paizo's Community Use Policy, please visit paizo.com/communityuse. For more information about Paizo Inc. and Paizo products, please visit paizo.com."
+
 
